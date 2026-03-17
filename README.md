@@ -2,7 +2,7 @@
 
 AI agent skill that monitors the Apple App Store for trademark-infringing apps and scans the web for pirated/modded APKs of your product.
 
-Built for [OpenClaw](https://openclaw.com). Works with any brand — configures itself through an onboarding interview on first run.
+Built for [OpenClaw](https://openclaw.ai). Works with any brand — configures itself through an onboarding interview on first run.
 
 ## What It Does
 
